@@ -98,17 +98,8 @@ flutter run
 
 ---
 
-## 📸 Screenshots
-
-*Add app screenshots here once the UI is complete.*
-
-Example:
-
-```
-/screenshots/home.png
-/screenshots/product_list.png
-/screenshots/ai_assistant.png
-```
+## UI Improvements
+Improved user interface for farmer and consumer dashboard.
 
 ---
 
