@@ -4,6 +4,12 @@ A modern **Flutter-based farming marketplace and AI assistant** designed to help
 The app combines a **digital crop marketplace** with an **AI-powered assistant** to support better farming decisions.
 
 ---
+### 1️⃣Live Demo Link
+
+```
+https://wrdj2onrzstu0uws7eqg.share.dreamflow.app/
+```
+
 
 ## 🚀 Features
 
